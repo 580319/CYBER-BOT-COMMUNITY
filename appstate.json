@@ -1,7 +1,45 @@
-....
+[
 
+{
 
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
+94%
 
+Import FBState (encrypted)
 
-.....
+Import FBState (base64)
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+"key": "sb",
+
+"value": "B-c1ZolzbcfFjrKoPYzwJfoO",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2024-08-14T11:56:13.520Z",
+
+"lastAccessed": "2024-08-14T11:56:13.520Z"
+
+"key": "datr",
+
+"value": "B-c1Znn6vZhxoLkrVgBglFpk",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2024-08-14T11:56:13.520Z",
